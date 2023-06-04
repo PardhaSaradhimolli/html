@@ -1,0 +1,25 @@
+body{
+    background-color: black;
+}
+h1{
+    margin-left: 10%;
+    text-transform: uppercase;
+    font-style: oblique;
+    font-size: xx-large;
+    color: white;
+
+}
+.poster{
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 50px;
+    
+}
+p{
+    margin-left: 15%;
+    text-transform: uppercase;
+    font-style: oblique;
+    font-size: large;
+    color: whitesmoke;
+}
+
